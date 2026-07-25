@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-lotus.jpg" width="100%" alt="Pink glowing lotus flowers">
+<img src="./assets/banner-lotus.jpg" width="100%" alt="Pink glowing lotus flowers">
 
 <br>
 
@@ -103,7 +103,7 @@ digitais, transações e contratos inteligentes.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./cristal-pixel.jpg" width="240" alt="Pink and purple pixel art crystal">
+<img src="./assets/cristal-pixel.jpg" width="240" alt="Pink and purple pixel art crystal">
 
 </td>
 
@@ -151,7 +151,7 @@ digitais, transações e contratos inteligentes.
 
 <div align="center">
 
-<img src="./mulher-binaria.jpg" width="100%" alt="Female silhouette surrounded by pink binary code">
+<img src="./assets/mulher-binaria.jpg" width="100%" alt="Female silhouette surrounded by pink binary code">
 
 </div>
 
@@ -230,7 +230,7 @@ sistemas digitais mais acessíveis, transparentes e úteis.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./rosas-pixel.jpg" width="245" alt="Pink digital roses in pixel art">
+<img src="./assets/rosas-pixel.jpg" width="245" alt="Pink digital roses in pixel art">
 
 </td>
 
@@ -249,7 +249,7 @@ sistemas digitais mais acessíveis, transparentes e úteis.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./lotus-pixel.jpg" width="245" alt="Pink lotus flower in pixel art">
+<img src="./assets/lotus-pixel.jpg" width="245" alt="Pink lotus flower in pixel art">
 
 </td>
 
@@ -375,7 +375,7 @@ estado        ↪ aprendendo · construindo · depurando
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./terminal-retro.jpg" width="280" alt="Pink retro terminal interface">
+<img src="./assets/terminal-retro.jpg" width="280" alt="Pink retro terminal interface">
 
 </td>
 
@@ -390,7 +390,7 @@ estado        ↪ aprendendo · construindo · depurando
 
 <br><br>
 
-<img src="./erro-404.jpg" width="190" alt="Pink pixel art 404 error">
+<img src="./assets/erro-404.jpg" width="190" alt="Pink pixel art 404 error">
 
 <h2>↪ Contact</h2>
 
@@ -406,7 +406,7 @@ estado        ↪ aprendendo · construindo · depurando
 
 <br><br>
 
-<img src="./flores-neon.jpg" width="100%" alt="Pink neon digital flowers">
+<img src="./assets/flores-neon.jpg" width="100%" alt="Pink neon digital flowers">
 
 <br><br>
 
