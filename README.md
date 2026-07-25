@@ -119,31 +119,61 @@ digitais, transações e contratos inteligentes.
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" title="Python">
+<p><strong>⌨ Languages & Web</strong></p>
+
+<img src="./assets/icones/python.svg" height="44" alt="Python" title="Python">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" alt="PHP" title="PHP">
+<img src="./assets/icones/php.svg" height="44" alt="PHP" title="PHP">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript">
+<img src="./assets/icones/javascript.svg" height="44" alt="JavaScript" title="JavaScript">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript">
+<img src="./assets/icones/typescript.svg" height="44" alt="TypeScript" title="TypeScript">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML" title="HTML">
+<img src="./assets/icones/html.svg" height="44" alt="HTML" title="HTML">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS" title="CSS">
+<img src="./assets/icones/css.svg" height="44" alt="CSS" title="CSS">
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React" title="React">
+<sub>Python · PHP · JavaScript · TypeScript · HTML · CSS</sub>
+
+<br><br><br>
+
+<p><strong>⚙ Tools & Infrastructure</strong></p>
+
+<img src="./assets/icones/react.svg" height="44" alt="React" title="React">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" alt="Vite" title="Vite">
+<img src="./assets/icones/vite.svg" height="44" alt="Vite" title="Vite">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux">
+<img src="./assets/icones/linux.svg" height="44" alt="Linux" title="Linux">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" alt="Bash" title="Bash">
+<img src="./assets/icones/terminal.svg" height="44" alt="Bash and terminal" title="Bash and terminal">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" title="Git">
+<img src="./assets/icones/git.svg" height="44" alt="Git" title="Git">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" alt="Supabase" title="Supabase">
+<img src="./assets/icones/github.svg" height="44" alt="GitHub" title="GitHub">
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/icones/supabase.svg" height="44" alt="Supabase" title="Supabase">
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/icones/sql.svg" height="44" alt="SQL" title="SQL">
+
+<br><br>
+
+<sub>React · Vite · Linux · Bash · Git · GitHub · Supabase · SQL</sub>
+
+<br><br><br>
+
+<p><strong>ᯤ Web3 & Artificial Intelligence</strong></p>
+
+<img src="./assets/icones/ethereum.svg" height="46" alt="Ethereum" title="Ethereum">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/icones/celo.svg" height="46" alt="Celo" title="Celo">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/icones/ia.svg" height="46" alt="Artificial Intelligence" title="Artificial Intelligence">
+
+<br><br>
+
+<sub>Ethereum · Celo · Artificial Intelligence</sub>
 
 </div>
 
