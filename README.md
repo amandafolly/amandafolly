@@ -13,6 +13,20 @@ Linux · Blockchain · Artificial Intelligence · Digital Products
 </p>
 
 <code>building technology with purpose, curiosity and a little pink glow</code>
+<br><br>
+
+<a href="mailto:mandafolly@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-mandafolly%40gmail.com-111116?style=flat-square&logo=gmail&logoColor=ff79c6" alt="E-mail">
+</a>
+&nbsp;
+<a href="https://github.com/amandafolly">
+  <img src="https://img.shields.io/badge/GitHub-%40amandafolly-111116?style=flat-square&logo=github&logoColor=c7a0ff" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amanda-folly/">
+  <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Folly-111116?style=flat-square&logo=linkedin&logoColor=ff79c6" alt="LinkedIn">
+</a>
+
 
 </div>
 
@@ -420,18 +434,24 @@ estado        ↪ aprendendo · construindo · depurando
 
 <br><br>
 
-<img src="./assets/erro-404.jpg" width="190" alt="Pink pixel art 404 error">
+<img src="./assets/404-error-pixel-Photoroom.jpg" width="190" alt="Pink pixel art 404 error">
 
 <h2>↪ Contact</h2>
 
 <a href="mailto:mandafolly@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-mandafolly%40gmail.com-111116?style=for-the-badge&logo=gmail&logoColor=ff79c6" alt="E-mail">
+  <img src="https://img.shields.io/badge/E--mail-mandafolly%40gmail.com-111116?style=for-the-badge&logo=gmail&logoColor=ff79c6" alt="E-mail">
 </a>
 
 &nbsp;
 
 <a href="https://github.com/amandafolly">
-<img src="https://img.shields.io/badge/GitHub-%40amandafolly-111116?style=for-the-badge&logo=github&logoColor=c7a0ff" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-%40amandafolly-111116?style=for-the-badge&logo=github&logoColor=c7a0ff" alt="GitHub">
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/amanda-folly/">
+  <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Folly-111116?style=for-the-badge&logo=linkedin&logoColor=ff79c6" alt="LinkedIn">
 </a>
 
 <br><br>
